@@ -1,0 +1,29 @@
+{
+  "name": "opendate-marketplace",
+  "owner": {
+    "name": "Opendate",
+    "email": "dev@opendate.io"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for the Opendate team and community",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ruby-lsp",
+      "source": {
+        "source": "github",
+        "repo": "opendate-app/ruby-lsp-plugin"
+      },
+      "description": "Ruby LSP integration - go-to-definition, find-references, hover docs for Ruby files",
+      "version": "1.0.0",
+      "author": {
+        "name": "Opendate"
+      },
+      "repository": "https://github.com/opendate-app/ruby-lsp-plugin",
+      "license": "MIT",
+      "keywords": ["ruby", "lsp", "rails", "language-server"],
+      "category": "languages"
+    }
+  ]
+}
