@@ -22,8 +22,33 @@
       },
       "repository": "https://github.com/opendate-app/ruby-lsp-plugin",
       "license": "MIT",
-      "keywords": ["ruby", "lsp", "rails", "language-server"],
+      "keywords": [
+        "ruby",
+        "lsp",
+        "rails",
+        "language-server"
+      ],
       "category": "languages"
+    },
+    {
+      "name": "defect-product-areas",
+      "source": {
+        "source": "github",
+        "repo": "opendate-app/defect-product-areas"
+      },
+      "description": "Sort Opendate Linear issues into one Product Area label, using the live ownership page on team.opendate.io",
+      "version": "1.0.0",
+      "author": {
+        "name": "Opendate"
+      },
+      "repository": "https://github.com/opendate-app/defect-product-areas",
+      "keywords": [
+        "linear",
+        "triage",
+        "product-area",
+        "defects"
+      ],
+      "category": "productivity"
     }
   ]
 }

@@ -15,6 +15,7 @@ Add the marketplace to Claude Code:
 | Plugin | Description | Install |
 |--------|-------------|---------|
 | **ruby-lsp** | Ruby language intelligence (go-to-definition, references, hover) | `/plugin install ruby-lsp@opendate-marketplace` |
+| **defect-product-areas** | Sort Linear issues into one Product Area using the team.opendate.io ownership page (Opendate staff; private repo) | `/plugin install defect-product-areas@opendate-marketplace` |
 
 ## Installing Plugins
 
